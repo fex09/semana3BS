@@ -1,0 +1,15 @@
+{
+  "name": "web-brain-station",
+  "version": "1.0.0",
+  "description": "Semana 3 ejemplo de npm en curso de web avanzado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "practica",
+    "web"
+  ],
+  "author": "Fenix Solis",
+  "license": "ISC"
+}
