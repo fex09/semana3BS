@@ -13,10 +13,12 @@
   "author": "Fenix Solis",
   "license": "ISC",
   "devDependencies": {
+    "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-connect": "^5.5.0",
     "gulp-sass": "^3.1.0",
-    "run-sequence": "^2.2.1"
+    "run-sequence": "^2.2.1",
+    "yargs": "^11.0.0"
   },
   "dependencies": {
     "bootstrap": "^4.0.0"
